@@ -1,2 +1,5 @@
 # Swap files
 *.swp
+
+logs/
+reports/
